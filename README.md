@@ -4,8 +4,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](standard.gif)
-
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://twitter.com/derpezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dfPKNhYQzv" height="30" width="40" /></a>
