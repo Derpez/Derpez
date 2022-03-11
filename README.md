@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derpez" alt="derpez" /></a> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/derpezz?logo=twitter&style=for-the-badge" alt="https://twitter.com/derpezz" /></a> </p>
+<p align="left"> <a href="" target="blank">https://twitter.com/derpezz<img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="https://twitter.com/derpezz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
